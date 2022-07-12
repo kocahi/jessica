@@ -1,0 +1,44 @@
+
+[
+{
+"nama" : "dr. Sarah Kusumawati, Sp.AK",
+"spesialis" : "Spesialis Akupuntur",
+"alamat" : "RS Hermina Jatinegara",
+"gambar" : "https://i.imgur.com/5HCBAao.jpeg"
+},
+{
+"nama" : "dr. Kanya Ayu Paramastri, Sp.A",
+"spesialis" : "Spesialis Anak",
+"alamat" : "RS Hermina Jatinegara",
+"gambar" : "https://i.imgur.com/CmE6PBn.jpeg"
+},
+{
+"nama" : "dr. Aditya Maulana Arrum, Sp.B",
+"spesialis" : "Spesialis Bedah Umum",
+"alamat" : "RS Pondok Indah",
+"gambar" : "https://i.imgur.com/POKh9vK.jpeg"
+},
+{
+"nama" : "dr. Astuti Pitarini, Sp.OT",
+"spesialis" : "Spesialis Bedah Ortopedi",
+"alamat" : "RS Pondok Indah",
+"gambar" : "https://i.imgur.com/dTISmnh.jpg"
+},
+{
+"nama" : "dr. Bobby Sugiharto Sp.B",
+"spesialis" : "Spesialis Bedah Umum",
+"alamat" : "RS Pondok Indah",
+"gambar" : "https://i.imgur.com/aH0tIaP.jpeg"
+},
+{
+"nama" : "dr. Gatoet Soeseno",
+"spesialis" : "Dokter Umum",
+"alamat" : "RS Pondok Indah",
+"gambar" : "https://i.imgur.com/nlfTGgC.jpeg"
+},
+"nama" : "dr. Hastomo Prabowo",
+"spesialis" : "Dokter Umum",
+"alamat" : "RS Pondok Indah",
+"gambar" : "https://i.imgur.com/YRvs81S.jpeg"
+}
+]
